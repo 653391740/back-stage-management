@@ -14,7 +14,6 @@
 - **数据可视化**: ECharts 6.0.0
 - **富文本编辑**: Vue Quill Editor 3.0.6
 - **CSS预处理器**: Sass 1.90.0
-- **微前端**: @micro-zoe/micro-app 1.0.0-rc.26
 
 ## 功能特性
 

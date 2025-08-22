@@ -51,13 +51,13 @@ export const Getgoods = (params = {}) => {
 export const Getgoodsid = (id) => {
     return http.get(`/goods/${id}`)
 }
-export const Postgoods = (data) => { //
+export const Postgoods = (data) => {
     return http.post('/goods', data)
 }
-export const Deletegoods = (id) => {//
+export const Deletegoods = (id) => {
     return http.delete(`/goods/${id}`)
 }
-export const Putgoods = (id, data) => {//
+export const Putgoods = (id, data) => {
     return http.put(`/goods/${id}`, data)
 }
 export const Getcategories = (params = {}) => {
