@@ -1,6 +1,7 @@
 {
   "name": "back-stage-management",
   "version": "1.0.0",
+  "description": "基于Vue 2和Element UI的后台管理系统，使用Vite构建工具，集成了数据可视化、用户管理、商品管理、订单管理等功能模块。",
   "private": true,
   "scripts": {
     "dev": "vite",
